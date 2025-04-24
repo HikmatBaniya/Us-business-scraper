@@ -1,5 +1,6 @@
-botasaurus==3.2.27
+botasaurus
    playwright
    streamlit
    pandas
 selenium
+re
