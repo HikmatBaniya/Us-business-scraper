@@ -2,3 +2,4 @@ botasaurus==3.2.27
    playwright
    streamlit
    pandas
+selenium
