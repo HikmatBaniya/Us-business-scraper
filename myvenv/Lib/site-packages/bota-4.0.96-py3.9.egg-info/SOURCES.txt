@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/bota/__init__.py
+src/bota/__main__.py
+src/bota/package_storage.py
+src/bota/vm.py
+src/bota.egg-info/PKG-INFO
+src/bota.egg-info/SOURCES.txt
+src/bota.egg-info/dependency_links.txt
+src/bota.egg-info/requires.txt
+src/bota.egg-info/top_level.txt

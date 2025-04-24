@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+botasaurus_api/__init__.py
+botasaurus_api/utils.py
+botasaurus_api.egg-info/PKG-INFO
+botasaurus_api.egg-info/SOURCES.txt
+botasaurus_api.egg-info/dependency_links.txt
+botasaurus_api.egg-info/requires.txt
+botasaurus_api.egg-info/top_level.txt

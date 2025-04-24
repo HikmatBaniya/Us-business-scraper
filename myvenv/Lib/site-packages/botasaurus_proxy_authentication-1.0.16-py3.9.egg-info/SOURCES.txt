@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+botasaurus_proxy_authentication/__init__.py
+botasaurus_proxy_authentication.egg-info/PKG-INFO
+botasaurus_proxy_authentication.egg-info/SOURCES.txt
+botasaurus_proxy_authentication.egg-info/dependency_links.txt
+botasaurus_proxy_authentication.egg-info/requires.txt
+botasaurus_proxy_authentication.egg-info/top_level.txt

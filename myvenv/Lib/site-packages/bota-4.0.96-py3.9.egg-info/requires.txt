@@ -1,0 +1,8 @@
+click
+pytweening
+
+[dev]
+check-manifest
+
+[test]
+coverage

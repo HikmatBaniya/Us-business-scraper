@@ -1,0 +1,22 @@
+{
+    "columns": {
+      "place_id": "Place ID",
+      "name": "Business Name",
+      "description": "Description",
+      "is_spending_on_ads": "Spending on Ads",
+      "reviews": "Review Count",
+      "rating": "Star Rating",
+      "website": "Website URL",
+      "phone": "Phone Number",
+      "main_category": "Main Category",
+      "categories": "Categories",
+      "workday_timing": "Operating Hours",
+      "address": "Full Address",
+      "review_keywords": "Review Keywords",
+      "link": "Google Maps Link"
+    },
+    "business_types": ["smoke shop", "liquor store"],
+    "output_format": "csv",
+    "max_results_per_query": 50,
+    "headless": true
+  }

@@ -1,0 +1,8 @@
+numpy
+pytweening
+
+[dev]
+check-manifest
+
+[test]
+coverage

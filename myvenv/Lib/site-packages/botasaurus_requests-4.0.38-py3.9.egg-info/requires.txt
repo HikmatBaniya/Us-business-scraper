@@ -1,0 +1,7 @@
+httpx
+geventhttpclient
+urllib3
+rich
+beautifulsoup4>=4.11.2
+click
+gevent
